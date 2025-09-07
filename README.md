@@ -29,6 +29,6 @@ Here’s a sneak peek into what the project looks like:
 
 # 📬 Contact
 Feel free to reach out for feedback or collaboration:
-📧 manumay8@gmail.com
+📧 Shiveshanand8742@gmail.com
 
 **HAPPY CODING**
