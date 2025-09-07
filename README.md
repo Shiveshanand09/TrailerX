@@ -3,7 +3,7 @@
 TrailerX is a modern platform that lets users discover, browse, and watch the latest movie and TV show trailers. It offers a smooth, fast, and visually appealing experience with detailed actor profiles, powerful browsing capabilities.
 
 ## Live Demo
-👉 [TrailerX Live Demo](https://trailer-x-manumaay-mishras-projects.vercel.app/)
+👉 [TrailerX Live Demo](trailer-hdh4qk8x4-shivesh-anands-projects-4fe3dbe5.vercel.app)
 
  # 🛠️ Built With
 React JS — For building a fast, dynamic, and highly responsive UI that won’t leave you buffering (nobody likes buffering).
